@@ -1,0 +1,21 @@
+# ninja log v5
+0	28	7411440831769031	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	8aa5dc165e957646
+0	28	7411440831769031	C:/Users/JEDREK/CLionProjects/Teseract/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	8aa5dc165e957646
+28	7235	7411440903845254	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	c9db5912cc8a015a
+28	7235	7411440903845254	C:/Users/JEDREK/CLionProjects/Teseract/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	c9db5912cc8a015a
+7235	7305	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	2064ddfa24b4ea5c
+7235	7305	0	C:/Users/JEDREK/CLionProjects/Teseract/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	2064ddfa24b4ea5c
+7305	7327	7411440904772152	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	90414d81fe713064
+7305	7327	7411440904772152	C:/Users/JEDREK/CLionProjects/Teseract/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	90414d81fe713064
+7327	7349	7411440904991418	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	93190cdb1ed3885
+7327	7349	7411440904991418	C:/Users/JEDREK/CLionProjects/Teseract/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	93190cdb1ed3885
+7349	7375	7411440905250552	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	b7ceabeb588a6ea3
+7349	7375	7411440905250552	C:/Users/JEDREK/CLionProjects/Teseract/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	b7ceabeb588a6ea3
+7376	7401	7411440905509684	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	b9af3af7435b7299
+7376	7401	7411440905509684	C:/Users/JEDREK/CLionProjects/Teseract/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	b9af3af7435b7299
+7401	7427	7411440905758852	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	f2cdf98aaedf14b9
+7401	7427	7411440905758852	C:/Users/JEDREK/CLionProjects/Teseract/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	f2cdf98aaedf14b9
+7427	7461	7411440906107683	CMakeFiles/sfml-populate-complete	39362313150c66cc
+7427	7461	7411440906107683	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	39362313150c66cc
+7427	7461	7411440906107683	C:/Users/JEDREK/CLionProjects/Teseract/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	39362313150c66cc
+7427	7461	7411440906107683	C:/Users/JEDREK/CLionProjects/Teseract/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	39362313150c66cc
